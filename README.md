@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+![octocat](arne_octocat_2.png)
+
+I'm an Enterprise Architect with a developer heart. My main focus areas are:
+
+- Enterprise Architecture
+- Big Data
+- Cloud
+- Event driven architecture
+- Data Warehouse & Business Intelligence
+
 <!--
 **arossmann/arossmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
