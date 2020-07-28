@@ -9,6 +9,7 @@ I'm an Enterprise Architect with a developer heart. My main focus areas are:
 - Cloud
 - Event driven architecture
 - Data Warehouse & Business Intelligence
+- DevOps
 
 <!--
 **arossmann/arossmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
